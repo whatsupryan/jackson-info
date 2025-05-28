@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+     font-family: sans-serif;
+}
+
+
+a:hover{
+   font-size:40px ; 
+   color: blueviolet;   
+}
+header img:hover{
+    width: 200px;  height: 100px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    color: purple;
+    font-size: 20px;
+    font-family:  sans-serif;
+    
+}
+h1{
+    color: blueviolet;
+    font-size: 50px;
+    font-family: sans-serif;
+}
