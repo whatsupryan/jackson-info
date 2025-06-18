@@ -8,12 +8,13 @@ a{
 
 
 a:hover{
-   font-size:40px ; 
-   color: blueviolet;   
+   font-size:25px ; 
+   color: rgba(46, 5, 85, 0.671);
+   transition: 1s ease-in;   
 }
 header img:hover{
     width: 200px;  height: 100px;
-    transition: 1s ease-in;
+    transition: s ease-in;
 }
 nav {
     display: flex;
@@ -29,5 +30,7 @@ h1{
     color: blueviolet;
     font-size: 50px;
     font-family: sans-serif;
+
 }
+
 
